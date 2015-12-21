@@ -1,6 +1,5 @@
 import requests
 import csv
-import pyglet
 import shutil
 import subprocess
 import os.path
